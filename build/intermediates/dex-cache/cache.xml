@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_8d3eccc33c04e5c5a0a7de69aef8abc5a9f220b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_29eedf9420f1615aa770a514877bf3f22d932fe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28a13bc6037903e167f6a206a81922064ef91b68">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_83ada98e63becbfb00e073f853fd17e77af43496/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha7_9e1135b9d97362389f9c25e002b911744b2fa906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_5be1b6346622a625a5f1285881cda876cd09ced0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_8d3eccc33c04e5c5a0a7de69aef8abc5a9f220b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_74900591b75d412789632b6c0b2ad63e8aa79e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5be1b6346622a625a5f1285881cda876cd09ced0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6e9031963e4bd0ff60267a9ecfa456c8fe9ac57f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf0351acd52dc828c062c017c319a8168bd319d7">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5fca86ddb9a89fcad8e08182e88763f463fb0f05/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_023c05a5a41d4d15bc1c9beb483a91db2727ac40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_3c30bc23dd7a22abffac61a7e13b0687a8651cba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_3c30bc23dd7a22abffac61a7e13b0687a8651cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_29eedf9420f1615aa770a514877bf3f22d932fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_74900591b75d412789632b6c0b2ad63e8aa79e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_425a9f94b4fb777f1572113bafa5029dd462d1b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_023c05a5a41d4d15bc1c9beb483a91db2727ac40/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_0aa89196bf2bf17d4fb706c0c5543cbd4fe02004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d143e4af534b4e1d9ac26fd4417e0b8ae50a3e05.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_0aa89196bf2bf17d4fb706c0c5543cbd4fe02004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_425a9f94b4fb777f1572113bafa5029dd462d1b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_6e9031963e4bd0ff60267a9ecfa456c8fe9ac57f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Downloads/GalleryView/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha7_9e1135b9d97362389f9c25e002b911744b2fa906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/buty/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/buty/Downloads/GalleryView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d143e4af534b4e1d9ac26fd4417e0b8ae50a3e05/classes.dex" />
+    </item>
+
+</items>
